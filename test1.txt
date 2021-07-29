@@ -1,2 +1,5 @@
 Test 1
+
 Cambio en master
+Cambio en rama-1
+Otra línea
